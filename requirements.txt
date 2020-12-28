@@ -1,0 +1,9 @@
+Keras==2.1.5
+requests==2.14.2
+tensorflow==1.14.0
+matplotlib==2.2.2
+numpy==1.19.4
+Keras_Applications==1.0.8
+opencv_python==4.4.0.42
+beautifulsoup4==4.9.3
+Pillow==8.0.1

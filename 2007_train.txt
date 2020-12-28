@@ -1,0 +1,1516 @@
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000009.jpg 69,172,270,330,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000017.jpg 90,78,403,336,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000019.jpg 231,88,483,256,1 11,113,266,259,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000021.jpg 1,235,182,388,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000036.jpg 27,79,319,344,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000044.jpg 99,101,312,213,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000046.jpg 211,234,317,366,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000048.jpg 58,107,291,465,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000063.jpg 123,115,379,275,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000064.jpg 1,23,451,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000065.jpg 2,104,398,334,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000077.jpg 240,1,500,333,1 2,1,306,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000078.jpg 15,75,475,412,3 94,41,437,238,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000093.jpg 175,125,344,254,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000099.jpg 4,77,320,252,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000107.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000109.jpg 17,12,482,235,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000112.jpg 70,174,277,328,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000118.jpg 164,97,281,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000120.jpg 66,121,440,276,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000122.jpg 36,20,430,474,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000133.jpg 135,227,338,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000140.jpg 107,146,386,300,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000141.jpg 25,53,418,399,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000143.jpg 170,46,500,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000150.jpg 186,78,319,264,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000158.jpg 196,83,267,207,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000171.jpg 1,290,128,407,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000173.jpg 109,64,288,464,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000189.jpg 65,39,459,346,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000194.jpg 86,36,239,224,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000209.jpg 14,76,400,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000211.jpg 48,262,244,349,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000214.jpg 205,1,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000215.jpg 144,81,338,411,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000218.jpg 253,64,383,255,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000232.jpg 47,92,376,334,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000236.jpg 88,169,275,314,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000242.jpg 3,3,499,287,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000246.jpg 60,44,331,310,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000266.jpg 98,19,374,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000275.jpg 57,109,418,433,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000278.jpg 294,156,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000294.jpg 330,11,454,368,0 55,93,167,371,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000306.jpg 114,36,182,86,2 237,46,302,87,2 303,42,380,87,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000328.jpg 58,147,257,265,4 1,109,50,229,4 305,98,440,236,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000332.jpg 54,50,285,262,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000336.jpg 4,7,472,426,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000340.jpg 334,131,447,363,0 72,38,186,255,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000347.jpg 77,2,411,348,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000354.jpg 153,116,356,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000359.jpg 263,266,388,479,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000363.jpg 59,15,220,239,0 161,122,500,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000372.jpg 354,114,420,156,4 78,22,253,304,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000395.jpg 104,54,429,264,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000400.jpg 11,49,332,489,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000403.jpg 157,90,486,372,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000407.jpg 65,73,403,310,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000408.jpg 51,114,347,499,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000417.jpg 174,82,369,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000424.jpg 65,159,134,216,0 189,197,284,254,0 327,209,401,252,0 411,177,486,227,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000430.jpg 6,1,500,326,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000435.jpg 205,108,427,295,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000443.jpg 176,117,327,268,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000454.jpg 1,15,460,297,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000462.jpg 1,3,465,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000464.jpg 71,252,216,314,2 58,202,241,295,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000470.jpg 194,89,415,335,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000476.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000483.jpg 122,94,284,437,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000486.jpg 34,25,337,404,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000489.jpg 224,186,297,230,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000491.jpg 2,2,459,334,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000501.jpg 22,22,349,492,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000508.jpg 435,18,500,169,0 247,139,412,375,0 164,47,326,231,0 19,100,156,327,0 155,127,288,329,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000516.jpg 213,91,500,245,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000523.jpg 45,199,362,408,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000524.jpg 181,126,362,287,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000528.jpg 124,68,319,310,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000537.jpg 111,12,396,400,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000544.jpg 286,93,491,229,1 1,66,307,326,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000549.jpg 1,49,341,499,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000577.jpg 1,1,479,333,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000582.jpg 1,1,373,411,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000609.jpg 16,134,460,275,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000619.jpg 143,12,459,322,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000622.jpg 156,87,401,339,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000645.jpg 135,46,500,374,0 124,146,365,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000654.jpg 295,178,382,243,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000656.jpg 230,61,447,174,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000667.jpg 271,362,410,476,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000680.jpg 213,144,319,241,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000682.jpg 275,154,461,275,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000690.jpg 281,111,336,229,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000695.jpg 109,126,415,366,4 443,159,500,283,4 174,108,332,158,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000699.jpg 29,205,337,377,3 102,27,366,358,3 309,130,472,362,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000702.jpg 236,130,434,349,4 119,149,290,337,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000705.jpg 3,18,489,219,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000710.jpg 143,177,225,270,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000714.jpg 190,56,439,300,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000720.jpg 217,118,305,263,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000728.jpg 87,39,500,331,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000731.jpg 138,387,237,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000746.jpg 95,57,433,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000756.jpg 67,8,365,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000760.jpg 64,161,231,261,4 235,158,355,260,4 264,156,418,274,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000764.jpg 79,80,366,271,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000767.jpg 32,1,470,318,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000770.jpg 125,167,431,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000772.jpg 49,115,360,480,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000777.jpg 147,109,327,277,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000786.jpg 84,95,292,289,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000794.jpg 220,208,302,272,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000796.jpg 165,118,418,316,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000797.jpg 37,127,348,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000799.jpg 95,23,500,441,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000805.jpg 29,65,356,411,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000808.jpg 77,1,415,333,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000827.jpg 214,153,250,199,2 250,160,310,202,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000832.jpg 89,38,337,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000834.jpg 304,85,369,125,2 10,96,100,154,2 69,123,177,174,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000842.jpg 82,79,500,356,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000849.jpg 23,56,159,328,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000850.jpg 213,71,334,209,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000857.jpg 235,25,353,131,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000876.jpg 117,31,376,329,1 261,14,398,132,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000879.jpg 102,95,266,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000880.jpg 305,24,355,65,0 51,239,87,322,0 116,158,141,206,0 379,119,440,199,2 329,114,380,179,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000882.jpg 82,37,500,357,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000902.jpg 71,85,332,314,3 271,75,499,210,3 160,34,313,105,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000904.jpg 237,167,338,263,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000912.jpg 153,33,500,334,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000917.jpg 265,163,316,214,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000919.jpg 39,82,352,330,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000921.jpg 163,77,500,291,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000947.jpg 36,43,217,474,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000954.jpg 1,130,399,322,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000958.jpg 1,90,327,299,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000962.jpg 4,137,493,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000964.jpg 167,86,288,304,0 185,70,281,227,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000965.jpg 94,285,237,461,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000980.jpg 115,46,500,321,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/000991.jpg 113,117,218,471,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001001.jpg 62,64,325,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001004.jpg 143,152,235,197,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001009.jpg 33,11,500,375,1 4,44,263,316,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001014.jpg 278,188,395,375,3 150,253,337,369,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001015.jpg 96,133,110,163,0 392,188,418,209,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001041.jpg 143,138,283,265,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001042.jpg 222,248,298,319,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001043.jpg 61,9,482,309,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001053.jpg 24,11,285,482,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001056.jpg 167,166,415,334,3 1,1,350,300,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001061.jpg 323,33,449,128,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001064.jpg 13,34,267,203,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001071.jpg 72,142,179,429,4 157,169,302,455,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001073.jpg 55,178,149,248,2 135,176,174,241,2 227,153,282,236,2 276,159,350,255,2 327,152,425,240,2 421,161,500,227,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001074.jpg 74,54,422,208,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001078.jpg 2,101,245,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001082.jpg 212,153,347,306,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001084.jpg 116,176,212,458,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001092.jpg 131,63,456,332,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001104.jpg 1,4,394,334,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001110.jpg 19,73,264,305,1 254,66,498,326,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001127.jpg 42,125,203,330,3 195,136,295,288,3 283,113,496,241,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001130.jpg 114,107,296,266,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001136.jpg 298,68,422,133,0 248,155,291,222,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001140.jpg 257,312,323,407,3 57,298,157,465,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001143.jpg 14,40,373,475,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001145.jpg 1,204,149,493,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001151.jpg 93,109,316,325,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001156.jpg 100,80,414,324,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001182.jpg 125,149,403,294,2 100,124,218,183,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001185.jpg 197,199,289,323,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001192.jpg 294,172,372,317,3 148,107,216,234,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001203.jpg 31,6,327,208,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001206.jpg 172,141,236,326,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001207.jpg 125,77,500,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001209.jpg 196,96,273,238,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001211.jpg 267,215,409,500,1 1,9,224,281,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001225.jpg 100,212,303,414,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001226.jpg 105,50,499,274,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001233.jpg 64,143,257,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001234.jpg 1,425,62,475,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001236.jpg 69,111,432,362,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001239.jpg 108,60,320,160,3 228,138,381,375,3 118,94,286,307,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001241.jpg 34,60,375,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001250.jpg 172,97,255,192,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001254.jpg 212,83,390,263,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001260.jpg 167,85,245,140,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001273.jpg 53,132,392,419,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001274.jpg 138,196,230,344,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001287.jpg 2,127,198,305,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001289.jpg 157,98,355,188,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001293.jpg 3,14,451,491,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001299.jpg 39,26,229,412,2 211,240,319,408,2 318,221,408,435,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001312.jpg 1,1,480,318,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001314.jpg 68,2,369,323,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001316.jpg 150,61,500,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001324.jpg 57,44,156,333,3 206,35,403,315,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001337.jpg 92,139,213,459,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001341.jpg 114,65,450,308,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001348.jpg 163,52,313,210,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001361.jpg 44,35,422,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001365.jpg 322,139,416,189,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001375.jpg 170,9,500,383,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001378.jpg 182,90,350,404,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001387.jpg 38,43,375,466,1 213,138,375,465,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001395.jpg 35,24,499,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001397.jpg 128,121,214,263,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001404.jpg 57,22,443,361,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001405.jpg 83,59,273,435,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001406.jpg 109,127,404,373,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001413.jpg 373,163,482,256,0 189,130,234,174,0 256,181,323,273,0 134,211,210,290,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001418.jpg 32,34,344,473,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001420.jpg 192,109,340,270,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001442.jpg 73,68,429,333,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001443.jpg 33,32,314,373,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001453.jpg 176,29,297,306,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001467.jpg 253,81,475,241,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001468.jpg 138,64,250,256,2 22,106,166,237,2 214,110,254,209,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001486.jpg 110,61,461,269,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001490.jpg 199,105,382,326,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001512.jpg 160,130,435,232,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001515.jpg 60,13,361,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001517.jpg 19,109,416,291,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001521.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001523.jpg 139,165,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001524.jpg 185,158,216,230,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001528.jpg 46,76,372,348,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001541.jpg 1,8,450,316,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001554.jpg 241,170,423,227,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001555.jpg 333,294,390,368,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001556.jpg 72,39,159,255,4 323,31,435,292,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001582.jpg 338,176,500,365,1 1,78,124,168,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001586.jpg 28,54,429,329,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001594.jpg 253,177,302,238,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001597.jpg 227,135,330,291,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001607.jpg 21,1,500,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001610.jpg 16,56,368,276,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001614.jpg 158,43,436,372,2 100,231,154,319,2 416,100,500,364,2 367,252,440,315,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001628.jpg 104,74,420,344,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001632.jpg 11,103,450,371,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001642.jpg 11,2,331,463,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001643.jpg 1,42,472,323,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001647.jpg 1,231,227,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001669.jpg 21,75,364,337,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001673.jpg 36,110,440,319,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001675.jpg 29,25,458,330,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001680.jpg 91,104,331,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001684.jpg 17,6,465,422,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001685.jpg 329,96,468,340,0 118,87,337,372,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001690.jpg 40,101,182,292,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001699.jpg 43,56,424,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001707.jpg 10,130,378,499,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001711.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001713.jpg 35,64,479,356,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001718.jpg 97,14,439,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001724.jpg 35,15,219,302,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001727.jpg 1,41,305,317,4 123,15,413,317,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001730.jpg 214,110,376,323,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001738.jpg 125,68,323,300,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001739.jpg 149,178,214,317,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001741.jpg 1,111,115,251,2 332,133,375,156,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001747.jpg 92,4,383,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001755.jpg 61,17,500,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001758.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001759.jpg 2,153,197,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001766.jpg 181,101,337,288,4 111,87,213,259,4 1,239,216,375,4 121,300,227,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001768.jpg 1,63,261,344,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001778.jpg 97,39,404,284,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001782.jpg 74,67,500,429,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001787.jpg 147,101,277,347,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001799.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001806.jpg 274,192,328,361,2 114,266,180,376,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001807.jpg 290,115,411,224,4 201,136,296,216,4 54,105,196,192,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001816.jpg 1,36,369,250,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001818.jpg 113,3,500,332,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001825.jpg 1,39,403,300,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001832.jpg 1,78,416,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001840.jpg 128,174,321,296,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001853.jpg 202,63,343,286,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001855.jpg 314,209,491,349,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001860.jpg 139,40,172,71,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001888.jpg 78,32,276,413,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001894.jpg 211,2,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001896.jpg 280,59,422,371,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001906.jpg 103,147,393,272,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001915.jpg 22,220,87,265,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001927.jpg 15,92,318,274,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001933.jpg 70,43,399,319,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001934.jpg 36,55,239,262,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001940.jpg 1,163,328,500,1 17,12,313,182,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001945.jpg 93,161,221,477,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001952.jpg 26,26,475,372,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001960.jpg 108,138,264,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001964.jpg 366,50,413,89,0 318,71,362,104,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001971.jpg 139,71,499,266,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001972.jpg 18,76,291,415,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001981.jpg 36,1,329,273,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001982.jpg 85,50,379,348,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/001985.jpg 81,92,238,486,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002006.jpg 1,3,475,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002011.jpg 26,88,498,351,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002020.jpg 35,80,418,305,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002021.jpg 26,91,229,278,2 175,39,500,277,2 174,189,270,312,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002034.jpg 8,122,207,288,1 272,69,474,199,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002037.jpg 100,89,402,367,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002042.jpg 75,182,260,360,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002043.jpg 38,12,364,497,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002051.jpg 2,15,195,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002055.jpg 15,248,151,368,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002058.jpg 111,67,500,239,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002067.jpg 172,40,398,321,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002088.jpg 1,30,470,332,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002094.jpg 72,1,335,331,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002095.jpg 5,21,289,380,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002101.jpg 142,360,333,487,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002102.jpg 36,57,486,261,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002109.jpg 137,72,290,182,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002116.jpg 177,206,425,373,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002117.jpg 79,281,202,451,3 106,128,250,297,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002120.jpg 228,35,347,90,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002126.jpg 220,2,500,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002136.jpg 76,71,491,305,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002140.jpg 39,86,256,215,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002145.jpg 125,199,272,389,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002146.jpg 25,62,343,493,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002151.jpg 29,1,305,327,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002152.jpg 284,196,400,284,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002158.jpg 29,143,293,246,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002165.jpg 42,48,278,471,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002183.jpg 2,139,412,327,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002184.jpg 169,128,343,287,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002187.jpg 181,144,414,292,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002190.jpg 174,156,305,312,4 153,90,230,222,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002196.jpg 4,2,375,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002199.jpg 69,163,477,372,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002202.jpg 46,18,373,357,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002212.jpg 42,72,459,247,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002213.jpg 51,54,369,371,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002215.jpg 353,44,497,227,1 251,43,370,219,1 134,8,267,206,1 28,11,125,152,1 13,55,174,258,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002218.jpg 237,51,484,178,3 242,130,444,317,3 68,84,246,235,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002237.jpg 58,1,479,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002238.jpg 240,129,305,246,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002249.jpg 3,2,499,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002261.jpg 116,133,371,299,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002265.jpg 71,210,315,349,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002268.jpg 65,256,242,354,3 288,186,378,249,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002273.jpg 116,51,190,181,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002276.jpg 55,56,439,326,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002277.jpg 1,60,297,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002287.jpg 11,65,466,319,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002300.jpg 276,1,475,156,2 111,138,395,319,2 1,1,120,226,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002308.jpg 174,81,340,361,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002310.jpg 154,30,484,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002315.jpg 177,37,394,249,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002323.jpg 70,110,379,283,2 76,115,177,151,2 295,101,364,145,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002329.jpg 80,170,340,374,4 291,154,475,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002333.jpg 35,130,72,174,0 82,157,138,210,0 158,170,249,242,0 242,160,325,213,0 160,134,224,183,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002345.jpg 78,144,282,477,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002359.jpg 12,114,351,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002364.jpg 169,108,397,276,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002369.jpg 138,135,215,232,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002375.jpg 11,15,496,316,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002384.jpg 210,110,442,369,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002387.jpg 246,170,342,244,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002391.jpg 1,107,123,360,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002403.jpg 373,182,407,226,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002405.jpg 53,119,354,407,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002407.jpg 43,16,300,495,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002415.jpg 3,1,331,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002437.jpg 86,9,375,338,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002441.jpg 43,64,500,362,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002443.jpg 51,175,333,393,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002445.jpg 13,89,349,490,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002448.jpg 41,146,360,435,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002450.jpg 47,131,281,329,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002461.jpg 164,49,320,270,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002466.jpg 125,92,421,217,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002468.jpg 259,33,410,166,0 45,172,178,330,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002470.jpg 23,86,417,462,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002471.jpg 5,43,302,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002480.jpg 146,111,407,312,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002483.jpg 238,81,277,137,1 33,250,215,335,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002494.jpg 10,23,500,374,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002505.jpg 1,12,348,373,2 145,13,437,274,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002512.jpg 82,40,298,296,3 258,128,450,347,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002520.jpg 209,186,257,283,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002537.jpg 14,6,448,362,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002546.jpg 196,17,440,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002547.jpg 195,142,272,284,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002554.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002555.jpg 58,95,202,299,4 203,95,487,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002571.jpg 1,5,316,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002578.jpg 42,36,435,312,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002579.jpg 80,74,357,475,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002586.jpg 58,1,373,437,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002603.jpg 185,99,304,245,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002609.jpg 40,40,217,255,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002611.jpg 152,131,337,298,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002621.jpg 162,61,490,307,0 325,2,475,108,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002633.jpg 136,152,315,412,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002634.jpg 163,102,392,312,2 121,141,235,287,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002635.jpg 137,109,419,281,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002637.jpg 60,188,231,282,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002657.jpg 212,198,288,264,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002664.jpg 99,180,146,218,0 149,108,269,173,0 319,175,366,214,0 461,219,500,266,0 186,175,262,217,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002669.jpg 116,191,245,287,2 163,184,273,269,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002670.jpg 22,143,374,429,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002677.jpg 3,3,319,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002678.jpg 1,63,325,318,4 287,75,362,238,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002680.jpg 4,36,500,334,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002684.jpg 71,47,447,493,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002690.jpg 82,296,327,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002691.jpg 1,232,192,365,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002695.jpg 7,3,279,337,2 426,114,500,184,2 348,107,405,166,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002696.jpg 40,33,280,277,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002697.jpg 25,26,216,498,3 199,42,422,404,3 241,375,480,498,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002706.jpg 119,61,351,330,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002709.jpg 123,134,396,421,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002713.jpg 50,148,196,486,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002717.jpg 170,103,278,300,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002718.jpg 138,38,407,298,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002721.jpg 274,86,453,220,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002732.jpg 81,4,325,242,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002735.jpg 54,168,334,433,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002749.jpg 143,185,391,375,2 175,25,500,319,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002760.jpg 256,28,500,277,1 1,7,273,294,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002762.jpg 268,87,304,183,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002763.jpg 65,117,411,347,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002766.jpg 167,116,323,238,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002774.jpg 284,77,500,375,4 72,128,340,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002784.jpg 64,48,333,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002785.jpg 222,1,475,178,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002786.jpg 80,97,348,272,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002791.jpg 114,115,487,309,0 228,18,374,317,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002794.jpg 114,21,425,360,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002796.jpg 130,227,306,364,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002800.jpg 176,139,294,353,4 176,74,345,356,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002804.jpg 304,170,358,246,4 189,196,233,291,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002810.jpg 84,59,360,256,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002826.jpg 211,26,333,183,3 1,60,202,196,3 47,242,230,458,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002836.jpg 254,135,320,266,0 125,142,205,255,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002842.jpg 167,98,425,296,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002858.jpg 68,79,292,480,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002868.jpg 79,234,192,319,2 382,219,464,312,2 395,262,442,319,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002875.jpg 36,74,499,292,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002880.jpg 51,35,388,471,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002896.jpg 124,71,253,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002919.jpg 27,4,363,361,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002924.jpg 1,17,252,319,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002933.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002934.jpg 31,5,393,441,1 2,263,392,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002938.jpg 46,139,259,260,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002940.jpg 337,122,498,370,2 247,110,279,139,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002944.jpg 15,15,302,369,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002952.jpg 93,113,433,284,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002957.jpg 158,157,348,240,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002966.jpg 2,2,500,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002969.jpg 139,125,500,374,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002977.jpg 295,78,433,288,3 191,116,321,264,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002978.jpg 435,113,465,153,2 262,112,422,262,2 2,129,232,322,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002984.jpg 185,132,247,171,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002990.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/002995.jpg 1,24,392,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003004.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003015.jpg 182,128,274,218,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003017.jpg 139,117,453,301,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003027.jpg 138,93,397,289,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003031.jpg 6,89,493,315,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003045.jpg 153,54,500,248,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003066.jpg 139,170,255,270,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003072.jpg 207,57,348,312,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003074.jpg 298,167,353,196,0 206,192,260,222,0 146,219,196,248,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003082.jpg 197,186,284,284,0 143,233,304,368,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003085.jpg 174,81,327,266,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003100.jpg 49,263,175,330,3 220,264,294,319,3 214,243,269,286,3 153,278,228,322,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003105.jpg 42,56,351,271,2 248,113,458,289,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003106.jpg 208,238,404,324,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003110.jpg 213,127,275,266,3 121,107,188,234,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003112.jpg 164,87,306,332,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003116.jpg 100,67,487,400,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003118.jpg 207,21,286,108,0 361,153,461,220,0 298,174,373,248,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003121.jpg 2,16,282,333,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003126.jpg 132,156,280,248,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003127.jpg 3,2,499,350,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003147.jpg 153,145,366,257,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003155.jpg 4,121,313,419,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003161.jpg 113,161,157,224,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003169.jpg 54,113,474,332,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003177.jpg 54,2,375,435,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003184.jpg 2,74,500,375,1 147,78,430,361,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003189.jpg 175,170,271,334,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003194.jpg 1,16,374,299,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003199.jpg 124,38,376,328,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003210.jpg 46,73,265,456,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003213.jpg 1,47,352,334,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003216.jpg 135,74,380,285,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003228.jpg 11,227,80,325,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003242.jpg 181,148,272,251,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003250.jpg 174,24,355,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003253.jpg 8,126,249,405,3 313,19,500,304,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003254.jpg 210,132,301,205,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003256.jpg 244,227,273,266,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003270.jpg 118,80,327,305,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003272.jpg 226,119,434,311,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003273.jpg 141,104,305,284,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003274.jpg 148,77,298,239,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003284.jpg 345,303,443,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003290.jpg 238,76,403,285,4 121,129,248,246,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003293.jpg 2,86,333,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003294.jpg 27,72,332,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003301.jpg 104,196,236,294,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003303.jpg 212,212,260,347,4 78,221,132,339,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003307.jpg 3,29,308,251,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003308.jpg 174,58,257,104,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003316.jpg 204,112,406,340,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003325.jpg 23,12,217,374,3 332,128,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003330.jpg 268,96,375,247,0 166,70,238,146,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003338.jpg 196,75,334,285,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003339.jpg 21,24,314,288,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003343.jpg 167,82,407,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003349.jpg 88,55,327,289,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003351.jpg 160,83,461,347,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003354.jpg 93,75,256,223,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003360.jpg 99,254,220,481,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003362.jpg 174,122,282,263,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003373.jpg 232,160,441,329,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003374.jpg 135,118,311,359,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003377.jpg 135,141,292,360,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003392.jpg 135,3,497,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003403.jpg 71,43,496,290,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003410.jpg 66,149,240,237,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003415.jpg 197,2,500,217,1 128,153,334,373,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003416.jpg 352,64,383,106,0 194,128,271,185,0 148,180,188,288,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003424.jpg 29,239,230,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003425.jpg 44,1,408,291,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003429.jpg 123,59,406,217,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003430.jpg 150,128,355,324,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003436.jpg 74,138,135,271,4 151,101,291,358,4 278,92,439,361,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003439.jpg 263,177,420,295,2 86,89,279,295,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003443.jpg 59,96,229,233,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003458.jpg 120,121,326,474,0 17,161,224,493,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003462.jpg 134,187,316,375,3 196,41,337,242,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003489.jpg 280,32,456,257,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003491.jpg 31,15,419,347,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003492.jpg 100,2,500,366,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003500.jpg 1,81,373,368,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003508.jpg 1,157,269,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003519.jpg 114,84,316,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003522.jpg 249,2,500,328,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003524.jpg 34,39,418,480,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003525.jpg 160,1,448,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003536.jpg 111,100,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003546.jpg 132,82,257,228,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003565.jpg 280,218,500,317,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003586.jpg 2,1,247,188,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003594.jpg 149,131,357,448,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003604.jpg 62,103,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003611.jpg 215,281,235,326,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003614.jpg 82,113,272,250,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003618.jpg 156,160,390,265,4 57,154,92,223,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003620.jpg 74,1,451,257,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003623.jpg 107,22,428,312,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003625.jpg 127,88,378,275,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003627.jpg 135,1,365,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003632.jpg 76,73,500,368,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003640.jpg 274,184,444,287,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003645.jpg 256,127,288,182,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003646.jpg 200,142,276,302,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003656.jpg 34,37,91,84,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003671.jpg 135,6,358,323,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003673.jpg 231,145,500,374,3 63,2,252,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003674.jpg 79,1,476,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003675.jpg 185,133,271,227,0 144,110,242,163,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003679.jpg 38,53,432,302,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003681.jpg 213,138,284,283,3 100,156,206,330,3 1,159,121,326,3 204,153,368,326,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003691.jpg 12,200,326,399,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003696.jpg 193,87,368,285,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003704.jpg 220,62,458,347,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003727.jpg 121,148,291,429,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003732.jpg 67,1,375,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003735.jpg 75,78,405,330,4 382,129,480,270,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003740.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003748.jpg 262,174,415,320,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003750.jpg 361,163,449,362,2 125,50,353,262,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003751.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003753.jpg 45,55,500,321,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003754.jpg 249,313,301,351,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003760.jpg 309,273,358,311,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003763.jpg 1,1,407,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003772.jpg 110,64,408,294,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003774.jpg 1,88,428,225,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003779.jpg 56,105,400,383,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003780.jpg 68,312,207,481,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003788.jpg 164,123,320,266,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003792.jpg 16,108,150,260,3 178,108,410,288,3 351,87,474,267,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003793.jpg 30,26,348,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003803.jpg 156,186,249,341,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003807.jpg 36,67,500,375,1 44,39,398,344,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003814.jpg 116,75,423,314,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003821.jpg 50,42,405,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003828.jpg 168,53,223,86,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003844.jpg 137,163,266,329,1 173,151,355,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003846.jpg 171,93,263,234,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003869.jpg 328,158,458,300,3 128,110,317,292,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003871.jpg 119,82,313,433,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003872.jpg 205,170,309,245,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003887.jpg 175,443,212,472,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003889.jpg 345,75,427,295,4 157,79,282,294,4 52,105,138,297,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003890.jpg 7,270,282,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003898.jpg 103,75,157,104,0 152,87,199,110,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003899.jpg 124,117,318,297,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003905.jpg 236,66,376,267,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003912.jpg 114,100,487,394,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003915.jpg 157,161,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003918.jpg 26,78,285,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003921.jpg 83,68,398,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003935.jpg 98,55,347,340,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003937.jpg 1,2,312,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003939.jpg 111,87,347,198,4 276,79,459,197,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003946.jpg 3,141,234,486,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003948.jpg 112,43,183,196,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003949.jpg 210,151,245,193,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003960.jpg 38,196,266,369,4 195,222,353,372,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003965.jpg 236,105,381,326,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003969.jpg 410,118,440,180,3 76,136,132,185,0 207,152,241,181,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003970.jpg 96,115,230,437,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003979.jpg 174,150,277,243,0 300,169,442,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003984.jpg 137,36,500,261,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003986.jpg 44,57,311,330,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003990.jpg 245,135,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003991.jpg 79,53,500,264,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/003994.jpg 8,96,273,373,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004008.jpg 133,55,288,310,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004013.jpg 170,170,387,343,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004015.jpg 73,23,302,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004016.jpg 111,59,391,292,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004023.jpg 91,146,256,255,2 249,85,500,330,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004025.jpg 164,86,366,279,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004031.jpg 101,195,295,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004034.jpg 102,118,375,458,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004035.jpg 74,149,206,262,1 231,15,394,297,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004046.jpg 196,56,365,198,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004047.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004051.jpg 116,105,406,351,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004069.jpg 153,106,298,375,0 241,61,387,309,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004076.jpg 77,53,415,280,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004077.jpg 40,241,103,298,3 202,165,238,219,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004085.jpg 58,145,228,217,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004095.jpg 186,97,323,304,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004113.jpg 171,2,487,372,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004117.jpg 89,56,427,328,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004129.jpg 2,34,460,319,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004131.jpg 339,98,366,110,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004137.jpg 238,127,486,370,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004141.jpg 10,8,312,488,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004142.jpg 2,177,70,230,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004143.jpg 146,68,441,351,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004146.jpg 47,60,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004149.jpg 157,92,330,262,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004150.jpg 75,247,314,440,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004168.jpg 288,224,426,424,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004171.jpg 97,302,272,433,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004178.jpg 80,98,309,298,3 282,77,500,267,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004185.jpg 27,89,464,279,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004189.jpg 171,57,344,280,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004195.jpg 22,184,187,312,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004200.jpg 18,53,151,252,2 160,53,266,246,2 258,31,373,251,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004204.jpg 364,51,426,146,0 235,121,333,287,0 58,119,177,267,0 139,35,209,87,0 1,63,67,122,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004209.jpg 29,97,100,195,3 174,117,257,199,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004212.jpg 88,176,250,312,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004220.jpg 152,132,380,214,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004221.jpg 240,155,321,240,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004232.jpg 26,130,101,180,3 110,140,159,182,3 252,128,320,171,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004247.jpg 111,199,219,259,0 186,174,228,248,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004263.jpg 76,112,366,328,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004264.jpg 143,61,325,308,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004271.jpg 212,270,254,347,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004272.jpg 163,146,367,394,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004287.jpg 75,81,376,400,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004293.jpg 120,218,302,359,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004298.jpg 284,169,349,284,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004307.jpg 171,87,454,262,4 61,96,295,245,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004310.jpg 92,110,291,228,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004318.jpg 1,61,365,283,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004323.jpg 193,173,320,312,4 33,171,162,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004326.jpg 86,89,132,164,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004327.jpg 12,66,493,415,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004339.jpg 33,200,199,452,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004345.jpg 105,8,367,316,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004347.jpg 179,11,358,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004349.jpg 88,50,156,88,0 149,90,217,129,0 150,57,220,100,0 151,323,228,363,0 262,300,371,348,0 372,285,454,323,0 443,175,500,221,0 266,174,362,217,0 345,121,419,162,0 358,5,434,42,0 260,6,323,45,0 75,289,181,342,0 199,285,258,331,0 323,275,409,314,0 329,200,400,232,0 158,246,274,304,0 104,209,181,257,0 81,142,149,204,0 150,128,219,183,0 370,91,453,138,0 287,70,352,122,0 183,38,234,74,0 202,202,298,253,0 448,20,488,70,0 387,41,460,91,0 354,53,405,108,0 226,110,298,166,0 305,105,356,152,0 344,159,411,201,0 426,3,474,31,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004352.jpg 5,96,493,370,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004368.jpg 268,147,482,252,2 13,146,210,240,2 119,155,281,258,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004372.jpg 142,116,317,282,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004376.jpg 111,16,500,374,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004389.jpg 61,239,308,496,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004404.jpg 302,128,385,176,1 115,242,196,329,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004409.jpg 1,1,361,275,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004432.jpg 2,23,498,498,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004433.jpg 49,350,341,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004434.jpg 142,193,366,318,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004438.jpg 147,200,238,288,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004441.jpg 114,155,174,199,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004446.jpg 226,213,429,343,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004450.jpg 1,1,272,371,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004455.jpg 164,116,256,206,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004464.jpg 242,169,334,335,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004474.jpg 143,30,431,375,2 8,50,82,143,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004487.jpg 63,157,227,418,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004500.jpg 60,105,253,241,2 2,128,151,270,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004502.jpg 57,60,399,391,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004512.jpg 94,190,315,317,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004524.jpg 311,273,383,344,0 256,131,309,171,0 461,198,500,243,0 107,1,186,21,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004535.jpg 80,100,401,423,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004537.jpg 181,122,402,318,4 1,100,197,221,2 266,95,348,157,2 262,71,429,170,2 433,79,493,218,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004548.jpg 141,58,414,272,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004551.jpg 1,1,493,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004553.jpg 140,105,498,334,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004565.jpg 3,133,390,497,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004566.jpg 76,97,353,315,1 211,1,500,250,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004571.jpg 224,120,387,243,2 56,42,168,236,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004585.jpg 23,238,101,314,2 100,207,176,267,2 257,243,340,302,2 203,188,262,242,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004587.jpg 209,298,322,356,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004595.jpg 159,77,333,358,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004600.jpg 178,40,298,281,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004609.jpg 174,179,375,412,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004612.jpg 230,133,270,202,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004623.jpg 51,83,428,358,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004625.jpg 82,89,433,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004628.jpg 235,1,443,279,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004632.jpg 121,143,230,306,3 212,147,382,300,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004634.jpg 160,143,400,305,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004636.jpg 192,117,412,206,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004644.jpg 1,26,186,260,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004654.jpg 73,109,363,294,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004656.jpg 146,284,234,383,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004662.jpg 3,179,223,473,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004679.jpg 143,79,362,315,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004683.jpg 22,2,426,291,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004686.jpg 348,140,461,231,4 47,126,121,174,4 53,152,137,231,2 89,164,185,235,2 174,163,263,245,2 190,169,250,238,2 252,167,296,254,2 290,162,326,241,2 320,173,356,250,2 379,166,424,251,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004692.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004702.jpg 34,166,195,257,0 404,112,494,212,0 126,16,217,114,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004708.jpg 45,157,239,330,1 312,154,480,214,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004722.jpg 71,76,167,286,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004737.jpg 185,55,500,332,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004743.jpg 1,2,500,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004760.jpg 210,114,495,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004777.jpg 178,101,437,360,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004783.jpg 256,155,290,178,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004788.jpg 72,89,413,354,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004789.jpg 201,117,316,234,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004792.jpg 115,135,257,336,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004794.jpg 190,140,405,243,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004799.jpg 61,111,328,474,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004814.jpg 1,33,500,265,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004815.jpg 187,122,373,262,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004816.jpg 113,37,365,294,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004826.jpg 61,224,261,361,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004832.jpg 144,304,262,468,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004834.jpg 153,128,252,441,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004848.jpg 162,60,279,299,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004856.jpg 28,1,335,496,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004866.jpg 111,97,237,192,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004869.jpg 61,69,350,433,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004872.jpg 252,131,291,263,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004876.jpg 26,91,61,208,0 152,151,177,237,0 404,141,443,194,0 202,149,224,203,0 313,119,338,184,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004878.jpg 36,129,432,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004902.jpg 1,141,192,374,4 79,124,265,364,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004907.jpg 177,1,440,329,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004929.jpg 215,21,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004935.jpg 104,140,292,433,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004950.jpg 77,23,213,195,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004955.jpg 97,16,382,291,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004963.jpg 68,41,475,304,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004966.jpg 135,130,322,276,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004968.jpg 45,2,329,470,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004972.jpg 115,78,344,482,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004974.jpg 92,141,256,268,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004977.jpg 1,1,464,280,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004985.jpg 1,59,475,297,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004992.jpg 54,57,480,294,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004995.jpg 200,166,309,302,4 106,214,235,390,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004998.jpg 146,22,432,180,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/004999.jpg 157,101,307,216,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005006.jpg 207,392,291,453,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005018.jpg 191,85,412,308,3 23,5,250,198,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005023.jpg 207,266,259,339,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005033.jpg 107,122,478,348,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005036.jpg 227,127,362,334,2 164,145,223,236,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005056.jpg 43,45,242,213,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005062.jpg 160,141,401,266,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005063.jpg 114,360,192,473,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005078.jpg 75,13,500,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005081.jpg 227,137,440,266,4 171,115,195,150,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005084.jpg 242,179,329,333,0 82,23,185,233,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005094.jpg 298,167,448,268,4 293,188,370,270,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005097.jpg 114,36,459,353,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005101.jpg 162,224,349,368,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005104.jpg 355,199,450,297,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005114.jpg 325,103,388,242,4 451,132,500,219,2 56,136,132,257,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005121.jpg 30,91,205,333,3 344,66,500,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005124.jpg 179,68,500,324,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005130.jpg 115,131,324,433,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005131.jpg 76,1,373,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005138.jpg 23,86,434,436,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005145.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005161.jpg 289,146,451,301,4 85,156,204,277,4 177,158,267,275,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005169.jpg 161,191,200,252,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005183.jpg 25,307,235,448,1 213,300,361,417,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005185.jpg 238,117,358,207,3 141,139,270,229,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005202.jpg 65,91,356,255,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005203.jpg 118,103,332,351,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005222.jpg 2,27,100,231,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005231.jpg 215,109,386,272,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005236.jpg 174,145,307,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005246.jpg 84,48,493,387,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005248.jpg 1,163,129,374,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005253.jpg 133,47,431,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005254.jpg 139,142,307,304,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005264.jpg 207,93,457,500,0 19,47,293,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005270.jpg 49,113,500,360,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005274.jpg 282,103,435,358,3 170,229,277,341,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005278.jpg 104,65,319,318,4 3,132,101,243,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005285.jpg 90,118,372,342,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005293.jpg 99,80,184,195,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005303.jpg 72,196,378,470,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005306.jpg 167,209,337,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005307.jpg 256,170,356,259,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005312.jpg 111,53,364,366,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005326.jpg 60,223,181,283,2 34,225,143,277,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005327.jpg 288,210,401,257,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005328.jpg 150,163,210,232,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005331.jpg 71,142,291,448,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005338.jpg 65,32,178,178,0 234,46,397,361,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005351.jpg 266,192,438,375,4 192,163,263,298,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005352.jpg 137,97,237,291,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005365.jpg 54,2,429,345,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005371.jpg 22,206,214,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005379.jpg 34,92,346,232,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005380.jpg 160,182,330,484,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005404.jpg 132,88,500,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005408.jpg 87,113,335,269,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005416.jpg 1,25,469,439,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005418.jpg 216,97,432,312,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005419.jpg 100,111,237,419,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005433.jpg 139,156,332,280,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005434.jpg 72,98,192,307,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005445.jpg 32,233,353,497,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005453.jpg 1,235,197,330,3 203,3,500,333,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005455.jpg 89,34,333,250,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005461.jpg 146,170,450,319,4 47,184,225,266,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005470.jpg 3,3,375,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005485.jpg 451,149,476,172,0 203,175,242,205,0 156,196,192,220,0 33,183,55,210,0 118,184,148,205,0 133,160,166,177,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005497.jpg 2,167,334,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005511.jpg 107,133,198,424,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005514.jpg 1,53,364,297,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005518.jpg 125,83,295,344,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005519.jpg 86,149,174,358,1 223,76,389,289,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005524.jpg 22,48,334,297,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005535.jpg 82,1,433,308,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005539.jpg 164,36,458,351,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005547.jpg 171,175,320,368,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005550.jpg 222,189,268,256,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005559.jpg 105,12,500,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005568.jpg 28,146,236,287,4 272,143,482,294,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005579.jpg 54,160,212,237,1 129,192,368,301,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005586.jpg 116,107,212,301,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005590.jpg 21,75,309,316,1 234,59,333,252,1 314,47,500,316,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005601.jpg 2,161,427,382,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005603.jpg 1,33,409,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005611.jpg 93,53,343,319,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005613.jpg 161,227,395,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005624.jpg 206,51,338,291,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005625.jpg 65,50,500,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005630.jpg 135,1,352,288,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005636.jpg 131,184,209,382,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005637.jpg 62,91,132,240,0 227,122,314,274,0 352,97,447,228,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005641.jpg 43,170,500,375,3 208,71,443,281,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005653.jpg 82,73,377,261,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005668.jpg 2,131,185,373,3 167,117,338,373,3 293,112,500,324,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005674.jpg 10,63,288,476,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005693.jpg 105,227,230,446,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005696.jpg 4,101,325,436,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005700.jpg 158,205,224,335,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005715.jpg 39,8,474,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005728.jpg 280,142,406,248,2 149,114,231,250,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005732.jpg 349,232,450,406,4 249,209,336,408,4 38,171,195,401,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005740.jpg 255,146,365,312,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005741.jpg 253,120,475,274,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005743.jpg 73,94,220,219,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005752.jpg 3,40,433,322,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005769.jpg 68,162,497,343,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005779.jpg 134,27,500,331,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005781.jpg 23,114,207,295,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005789.jpg 237,137,500,347,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005794.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005805.jpg 172,94,274,319,0 316,234,409,318,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005812.jpg 291,182,466,275,3 11,165,127,291,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005819.jpg 348,167,479,260,1 52,114,242,277,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005838.jpg 73,17,467,287,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005841.jpg 23,219,212,461,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005843.jpg 124,199,294,312,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005845.jpg 1,207,270,349,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005850.jpg 54,117,348,322,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005854.jpg 150,167,211,216,0 242,71,337,257,0 255,184,361,265,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005873.jpg 140,191,245,338,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005877.jpg 106,40,219,333,4 292,38,484,333,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005879.jpg 5,33,310,494,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005888.jpg 277,40,500,373,3 13,69,334,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005899.jpg 125,125,379,260,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005901.jpg 181,64,376,316,1 104,153,404,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005909.jpg 152,124,291,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005910.jpg 218,78,351,179,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005912.jpg 245,71,345,284,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005917.jpg 123,203,158,225,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005948.jpg 166,198,229,230,3 260,134,325,261,4 329,133,424,257,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005954.jpg 173,54,375,484,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005960.jpg 94,284,166,370,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005968.jpg 98,1,500,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005970.jpg 93,114,333,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005980.jpg 53,8,420,312,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005981.jpg 244,130,404,375,2 69,73,205,153,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005983.jpg 235,93,286,160,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005984.jpg 93,200,295,369,3 280,215,464,330,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005988.jpg 332,186,413,225,3 97,167,165,222,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/005992.jpg 60,147,286,245,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006012.jpg 287,186,317,210,0 312,169,337,203,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006026.jpg 214,93,479,207,1 2,114,293,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006029.jpg 52,217,371,309,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006042.jpg 205,102,318,213,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006061.jpg 213,7,500,200,1 207,185,280,374,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006065.jpg 4,29,500,287,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006069.jpg 150,236,443,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006070.jpg 1,179,338,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006073.jpg 130,54,496,346,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006084.jpg 141,64,500,282,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006091.jpg 262,41,448,162,0 135,58,309,200,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006095.jpg 264,148,496,280,2 98,123,237,248,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006098.jpg 93,100,142,140,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006100.jpg 141,163,198,200,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006105.jpg 44,5,151,443,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006108.jpg 61,22,242,336,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006111.jpg 111,89,472,301,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006125.jpg 140,128,353,291,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006134.jpg 125,99,442,318,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006139.jpg 82,86,165,153,3 325,167,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006148.jpg 100,231,208,413,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006151.jpg 106,173,321,377,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006170.jpg 147,134,174,176,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006171.jpg 2,166,412,315,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006174.jpg 49,76,388,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006177.jpg 224,234,261,268,2 360,245,403,282,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006181.jpg 26,66,486,319,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006183.jpg 54,207,360,436,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006189.jpg 112,1,426,330,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006190.jpg 72,35,409,264,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006202.jpg 271,121,439,255,2 59,121,153,262,2 162,140,228,234,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006219.jpg 186,96,365,312,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006222.jpg 142,53,247,118,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006230.jpg 1,33,487,356,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006234.jpg 15,63,499,232,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006249.jpg 11,4,409,365,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006252.jpg 136,86,486,303,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006260.jpg 100,56,500,233,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006262.jpg 43,98,481,257,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006264.jpg 193,38,339,348,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006267.jpg 84,156,394,301,3 100,72,230,198,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006269.jpg 4,1,419,293,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006276.jpg 86,120,285,455,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006285.jpg 242,117,352,308,4 143,129,238,306,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006291.jpg 301,27,484,337,2 252,2,387,224,2 100,3,305,220,2 47,12,166,211,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006295.jpg 38,123,171,221,4 337,97,447,186,4 198,103,370,202,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006305.jpg 205,77,429,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006309.jpg 52,48,500,325,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006318.jpg 234,130,360,309,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006321.jpg 54,200,232,412,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006337.jpg 55,111,418,318,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006353.jpg 1,2,500,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006355.jpg 238,214,313,336,3 202,175,245,318,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006366.jpg 1,31,461,384,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006367.jpg 115,2,400,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006382.jpg 3,62,295,331,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006385.jpg 219,158,295,325,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006392.jpg 82,50,245,198,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006404.jpg 121,232,176,270,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006425.jpg 74,37,300,490,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006428.jpg 2,33,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006429.jpg 1,2,328,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006430.jpg 274,163,293,224,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006434.jpg 147,1,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006444.jpg 134,146,271,364,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006445.jpg 65,156,401,459,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006455.jpg 85,42,254,199,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006456.jpg 48,36,373,313,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006459.jpg 52,115,332,354,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006462.jpg 67,2,375,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006470.jpg 192,133,287,324,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006473.jpg 223,83,421,223,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006474.jpg 1,28,500,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006475.jpg 137,379,259,500,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006488.jpg 143,185,420,358,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006495.jpg 196,150,338,365,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006506.jpg 362,133,500,281,4 318,153,386,271,4 236,142,287,285,4 164,175,215,271,4 3,201,115,305,4 72,170,122,276,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006507.jpg 160,89,263,223,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006512.jpg 86,66,415,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006520.jpg 57,41,254,488,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006543.jpg 174,25,309,160,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006547.jpg 23,97,273,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006548.jpg 174,210,474,371,0 299,139,356,221,0 188,116,256,199,0 144,140,173,188,0 1,132,93,250,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006556.jpg 2,2,500,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006562.jpg 281,116,399,234,2 181,108,281,235,2 87,87,171,236,2 1,15,74,237,2 60,160,100,222,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006565.jpg 1,134,401,373,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006570.jpg 1,54,311,237,3 107,129,334,328,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006572.jpg 143,33,315,248,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006595.jpg 118,24,457,304,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006597.jpg 19,17,445,305,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006602.jpg 92,121,205,237,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006606.jpg 92,134,417,290,3 118,89,263,181,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006609.jpg 214,156,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006611.jpg 80,135,224,393,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006612.jpg 74,201,218,314,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006617.jpg 88,89,362,267,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006643.jpg 180,39,452,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006645.jpg 133,109,289,370,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006657.jpg 190,72,341,269,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006671.jpg 57,168,201,244,0 268,103,446,235,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006674.jpg 41,58,250,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006706.jpg 44,127,341,496,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006708.jpg 164,151,206,182,2 305,181,380,286,2 398,181,452,281,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006722.jpg 161,115,395,375,4 368,164,500,326,4 129,164,186,327,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006725.jpg 153,81,422,248,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006735.jpg 40,24,402,490,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006739.jpg 23,160,190,285,0 188,180,288,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006740.jpg 56,29,442,295,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006751.jpg 247,109,454,283,0 91,39,241,144,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006760.jpg 204,87,334,258,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006761.jpg 131,193,348,322,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006769.jpg 111,99,487,354,4 74,190,124,253,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006781.jpg 7,10,220,367,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006789.jpg 56,43,214,310,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006797.jpg 1,46,242,371,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006799.jpg 143,75,357,409,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006800.jpg 148,164,176,195,0 175,110,213,202,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006805.jpg 36,13,447,397,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006813.jpg 214,56,498,199,1 3,93,224,283,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006825.jpg 150,54,447,278,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006829.jpg 1,65,424,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006836.jpg 112,76,393,425,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006841.jpg 196,147,376,307,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006847.jpg 68,139,180,300,4 187,96,397,286,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006848.jpg 79,169,316,255,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006849.jpg 51,94,285,195,3 236,117,500,274,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006850.jpg 3,89,321,410,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006858.jpg 122,128,205,295,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006862.jpg 115,15,328,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006865.jpg 29,16,312,287,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006866.jpg 43,56,407,374,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006869.jpg 167,111,493,273,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006876.jpg 140,162,224,277,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006883.jpg 93,131,252,250,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006903.jpg 255,96,384,253,3 100,149,214,341,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006910.jpg 2,192,114,335,0 29,228,122,335,0 184,123,285,215,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006911.jpg 55,123,366,404,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006914.jpg 238,180,269,235,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006916.jpg 299,73,500,328,3 5,87,351,331,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006933.jpg 165,19,500,315,4 4,36,160,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006935.jpg 8,46,333,500,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006940.jpg 77,44,500,368,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006944.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006949.jpg 1,7,443,326,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006952.jpg 161,137,256,197,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006958.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006962.jpg 353,196,467,284,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006963.jpg 240,225,427,300,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006968.jpg 158,215,267,349,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006971.jpg 1,1,500,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006976.jpg 242,277,312,348,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006989.jpg 171,95,497,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/006994.jpg 24,2,484,268,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007008.jpg 6,16,323,278,2 200,110,329,281,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007011.jpg 1,46,235,372,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007018.jpg 160,20,425,337,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007022.jpg 146,101,266,179,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007025.jpg 79,48,440,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007035.jpg 170,95,418,315,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007038.jpg 32,59,332,374,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007045.jpg 91,249,273,369,2 2,213,94,305,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007050.jpg 135,93,310,332,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007065.jpg 166,58,382,307,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007070.jpg 132,4,464,332,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007071.jpg 1,2,360,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007072.jpg 2,25,394,372,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007075.jpg 1,89,153,224,2 131,96,274,314,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007084.jpg 157,109,389,315,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007089.jpg 43,46,468,270,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007092.jpg 56,92,374,480,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007109.jpg 150,2,500,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007129.jpg 82,94,245,397,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007138.jpg 2,65,428,343,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007146.jpg 124,43,462,367,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007149.jpg 18,3,468,443,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007153.jpg 228,166,317,276,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007163.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007166.jpg 64,130,287,393,3 2,91,333,341,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007180.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007185.jpg 152,2,440,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007194.jpg 1,106,57,168,0 61,163,138,219,0 102,162,185,237,0 172,154,222,230,0 344,141,425,201,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007197.jpg 92,57,364,334,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007204.jpg 32,1,274,238,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007212.jpg 143,9,445,331,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007214.jpg 30,351,113,491,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007215.jpg 100,76,433,333,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007216.jpg 230,295,270,408,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007223.jpg 5,1,370,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007234.jpg 85,35,224,189,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007243.jpg 3,43,371,372,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007245.jpg 164,118,500,317,3 3,26,447,353,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007249.jpg 74,54,352,345,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007260.jpg 64,159,367,446,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007295.jpg 119,141,397,287,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007296.jpg 191,64,319,153,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007299.jpg 109,191,166,290,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007300.jpg 230,122,388,307,0 26,154,97,206,0 187,167,220,211,0 447,24,485,61,0 450,45,500,87,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007308.jpg 17,69,302,466,4 204,288,298,410,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007322.jpg 111,4,360,347,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007325.jpg 121,155,365,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007329.jpg 23,7,500,367,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007334.jpg 93,23,448,297,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007343.jpg 28,1,500,394,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007344.jpg 109,54,445,347,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007389.jpg 17,62,171,272,2 122,75,248,277,2 229,66,333,295,2 317,135,392,300,2 383,128,438,297,2 394,106,500,300,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007411.jpg 59,47,466,413,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007416.jpg 223,101,369,317,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007417.jpg 40,67,306,208,3 304,105,451,211,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007419.jpg 172,66,479,339,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007421.jpg 149,214,217,315,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007425.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007431.jpg 92,333,170,372,0 93,374,169,410,0 289,369,365,408,0 291,325,367,368,0 357,153,412,181,0 350,108,388,145,0 397,50,452,84,0 377,32,407,81,0 240,83,291,113,0 61,56,122,96,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007433.jpg 179,53,474,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007439.jpg 99,34,489,259,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007448.jpg 171,143,346,260,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007454.jpg 179,56,500,314,1 18,43,393,361,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007474.jpg 277,71,433,322,3 43,45,327,372,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007481.jpg 61,53,362,317,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007489.jpg 198,42,491,372,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007517.jpg 32,55,320,484,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007523.jpg 248,51,498,142,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007524.jpg 52,47,333,472,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007526.jpg 86,160,300,412,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007528.jpg 174,163,278,266,2 233,181,337,249,2 310,189,423,248,2 242,234,449,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007530.jpg 183,61,326,167,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007537.jpg 277,40,388,220,3 54,74,218,238,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007547.jpg 52,116,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007565.jpg 143,34,395,263,1 59,124,362,355,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007570.jpg 75,107,190,291,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007576.jpg 87,65,398,338,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007578.jpg 187,89,333,306,3 350,34,426,113,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007585.jpg 131,14,466,364,3 178,322,258,482,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007594.jpg 111,191,482,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007603.jpg 206,177,337,291,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007611.jpg 1,110,320,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007612.jpg 94,189,258,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007615.jpg 297,43,428,365,0 141,160,291,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007637.jpg 93,145,345,305,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007640.jpg 78,121,500,307,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007662.jpg 7,206,111,489,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007671.jpg 80,55,354,487,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007678.jpg 78,83,420,181,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007680.jpg 55,70,194,124,0 158,18,271,199,0 226,43,315,110,0 271,174,332,375,0 21,164,128,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007682.jpg 92,35,372,387,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007683.jpg 51,248,210,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007687.jpg 280,25,500,345,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007692.jpg 229,102,386,230,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007694.jpg 143,44,359,302,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007697.jpg 70,206,242,436,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007705.jpg 81,284,245,500,3 137,102,333,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007713.jpg 123,47,373,322,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007720.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007721.jpg 214,103,429,299,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007727.jpg 176,103,280,291,4 7,99,84,276,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007748.jpg 76,164,332,373,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007749.jpg 128,23,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007753.jpg 2,1,500,374,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007758.jpg 54,50,196,215,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007760.jpg 94,252,272,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007762.jpg 147,16,174,53,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007765.jpg 26,111,294,498,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007772.jpg 149,87,321,270,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007775.jpg 45,89,248,284,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007786.jpg 387,90,500,192,2 54,92,312,196,2 2,99,114,199,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007791.jpg 30,61,440,326,3 256,233,470,360,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007809.jpg 87,25,500,373,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007813.jpg 51,184,231,293,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007824.jpg 148,162,440,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007831.jpg 49,227,180,412,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007833.jpg 141,222,277,318,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007834.jpg 91,48,277,448,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007838.jpg 230,103,318,264,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007840.jpg 11,33,268,486,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007841.jpg 139,78,244,234,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007845.jpg 70,34,312,355,0 130,70,458,263,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007847.jpg 170,110,465,294,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007853.jpg 86,177,350,452,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007863.jpg 201,140,440,296,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007868.jpg 31,16,388,378,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007869.jpg 38,76,369,332,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007876.jpg 226,181,316,308,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007878.jpg 66,67,294,373,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007885.jpg 16,29,344,485,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007886.jpg 162,129,475,367,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007900.jpg 187,116,325,286,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007914.jpg 62,114,352,414,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007919.jpg 167,114,448,280,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007924.jpg 58,10,216,193,0 17,239,178,327,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007935.jpg 124,126,380,284,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007939.jpg 101,256,333,473,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007946.jpg 118,111,309,252,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007954.jpg 28,111,380,212,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007958.jpg 162,101,330,306,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007968.jpg 132,1,341,287,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007974.jpg 1,2,313,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007979.jpg 275,89,411,170,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/007991.jpg 3,99,500,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008005.jpg 1,64,302,375,2 1,44,419,179,2 336,179,426,250,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008009.jpg 2,2,328,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008017.jpg 16,82,381,311,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008019.jpg 15,122,365,318,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008032.jpg 166,67,472,266,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008036.jpg 186,68,422,330,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008040.jpg 2,222,46,384,4 8,218,123,376,4 95,233,160,373,4 148,209,246,357,4 246,184,400,347,4 318,172,475,338,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008051.jpg 131,110,358,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008053.jpg 10,346,98,489,0 129,213,204,500,0 135,369,224,475,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008062.jpg 2,69,383,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008064.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008068.jpg 50,36,435,345,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008069.jpg 1,171,290,295,4 316,28,411,222,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008075.jpg 1,64,298,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008079.jpg 267,249,356,331,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008084.jpg 111,212,233,365,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008085.jpg 54,173,100,219,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008100.jpg 1,70,227,372,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008115.jpg 195,159,278,241,3 107,110,187,158,3 72,125,138,200,3 366,110,420,185,3 396,136,440,192,3 470,130,500,202,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008117.jpg 218,213,397,375,0 51,254,133,375,0 206,151,382,265,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008130.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008138.jpg 47,44,390,244,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008142.jpg 149,119,325,286,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008168.jpg 34,124,242,243,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008169.jpg 276,163,436,343,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008186.jpg 2,4,484,442,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008189.jpg 315,155,472,270,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008191.jpg 204,167,280,227,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008200.jpg 196,129,397,315,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008202.jpg 191,111,458,372,2 438,90,500,195,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008208.jpg 1,65,312,433,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008209.jpg 286,338,376,467,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008222.jpg 49,98,276,422,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008226.jpg 82,1,214,165,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008229.jpg 55,62,277,315,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008248.jpg 245,128,349,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008254.jpg 1,51,418,314,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008258.jpg 13,36,350,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008260.jpg 94,71,457,255,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008269.jpg 21,30,500,335,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008272.jpg 203,239,366,337,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008279.jpg 145,207,264,451,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008284.jpg 258,124,348,238,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008297.jpg 2,2,500,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008299.jpg 113,89,304,401,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008307.jpg 78,85,412,313,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008311.jpg 19,47,384,313,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008317.jpg 74,44,392,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008320.jpg 1,8,245,198,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008322.jpg 100,29,248,294,3 235,46,500,310,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008332.jpg 233,202,358,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008342.jpg 135,97,310,334,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008345.jpg 199,165,257,254,2 328,174,412,278,2 369,147,446,232,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008346.jpg 28,99,210,487,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008355.jpg 174,85,500,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008370.jpg 57,63,311,485,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008384.jpg 203,86,295,278,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008403.jpg 229,17,499,385,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008415.jpg 267,139,379,310,3 36,104,206,217,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008416.jpg 274,39,454,333,3 114,120,273,277,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008423.jpg 1,72,399,322,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008425.jpg 322,258,496,341,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008426.jpg 160,81,380,329,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008427.jpg 18,1,416,333,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008437.jpg 71,122,239,362,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008438.jpg 215,137,377,287,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008442.jpg 231,70,387,221,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008443.jpg 206,98,393,310,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008453.jpg 281,105,340,152,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008467.jpg 68,153,251,433,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008475.jpg 246,125,305,162,2 139,195,383,351,2 19,266,246,375,2 145,312,380,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008477.jpg 27,118,271,358,3 259,63,500,358,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008485.jpg 22,1,262,373,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008509.jpg 27,206,69,277,3 224,178,270,251,3 338,195,419,272,3 94,65,167,249,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008512.jpg 209,106,318,207,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008518.jpg 81,53,374,248,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008519.jpg 125,41,479,282,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008521.jpg 76,2,381,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008524.jpg 1,6,391,287,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008526.jpg 133,250,274,424,4 255,246,316,385,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008530.jpg 1,32,327,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008533.jpg 4,28,481,424,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008534.jpg 143,21,487,387,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008535.jpg 43,76,376,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008542.jpg 73,151,289,349,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008558.jpg 103,36,295,198,3 284,108,475,328,3 102,166,284,349,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008564.jpg 199,195,396,308,4 3,198,139,284,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008588.jpg 289,237,312,282,0 319,200,370,220,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008596.jpg 142,128,239,426,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008606.jpg 114,75,348,360,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008607.jpg 5,103,307,315,2 195,107,440,340,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008610.jpg 186,73,337,291,4 373,53,452,293,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008612.jpg 97,147,295,234,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008615.jpg 50,170,118,209,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008620.jpg 15,22,404,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008635.jpg 154,70,479,251,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008636.jpg 15,133,360,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008639.jpg 234,133,320,268,3 407,301,500,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008653.jpg 137,27,312,454,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008654.jpg 40,116,259,257,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008655.jpg 258,328,357,500,3 266,205,299,283,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008670.jpg 56,115,254,263,0 60,279,252,397,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008687.jpg 2,2,415,262,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008699.jpg 148,135,394,365,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008706.jpg 224,162,284,258,2 270,171,309,243,2 290,164,333,237,2 316,163,348,237,2 179,164,224,247,2 142,188,188,273,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008720.jpg 93,235,250,386,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008722.jpg 302,206,393,292,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008728.jpg 249,148,472,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008731.jpg 150,93,255,278,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008732.jpg 101,197,223,395,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008738.jpg 1,137,357,332,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008744.jpg 131,180,270,383,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008753.jpg 363,274,482,367,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008755.jpg 211,3,408,331,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008756.jpg 210,121,289,174,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008764.jpg 100,38,340,325,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008772.jpg 8,84,491,373,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008773.jpg 114,129,499,306,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008776.jpg 160,38,296,314,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008796.jpg 189,155,289,203,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008805.jpg 60,143,348,450,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008809.jpg 38,40,443,221,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008813.jpg 189,103,356,244,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008815.jpg 2,30,230,364,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008819.jpg 131,79,294,450,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008822.jpg 1,12,393,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008840.jpg 139,2,425,258,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008841.jpg 178,243,249,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008849.jpg 141,139,340,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008854.jpg 71,1,500,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008856.jpg 50,3,500,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008858.jpg 209,60,378,302,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008862.jpg 110,187,214,445,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008867.jpg 110,178,428,271,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008876.jpg 49,188,486,333,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008880.jpg 154,54,404,323,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008885.jpg 1,42,350,496,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008886.jpg 11,1,229,201,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008890.jpg 110,154,358,249,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008900.jpg 127,278,199,362,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008914.jpg 166,103,355,342,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008917.jpg 211,14,500,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008919.jpg 87,79,249,205,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008926.jpg 231,98,370,313,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008927.jpg 203,238,266,317,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008930.jpg 2,59,375,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008933.jpg 80,230,248,401,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008943.jpg 347,319,407,372,0 426,328,456,363,0 238,337,269,372,0 277,342,339,372,0 23,354,67,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008951.jpg 3,17,375,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008973.jpg 271,43,444,279,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008976.jpg 258,118,341,250,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008980.jpg 53,58,372,428,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/008985.jpg 3,9,314,496,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009000.jpg 219,168,284,225,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009018.jpg 5,93,351,313,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009019.jpg 40,133,450,244,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009020.jpg 163,102,402,274,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009022.jpg 138,143,263,370,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009024.jpg 163,172,288,360,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009035.jpg 1,1,333,482,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009042.jpg 116,92,406,194,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009048.jpg 119,308,234,404,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009066.jpg 98,95,467,351,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009080.jpg 79,78,174,188,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009087.jpg 256,199,344,351,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009098.jpg 1,284,197,500,1 6,3,418,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009099.jpg 146,128,286,334,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009112.jpg 35,57,361,298,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009113.jpg 87,111,336,343,2 192,92,214,112,2 169,108,214,125,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009114.jpg 66,26,242,191,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009117.jpg 188,27,500,373,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009133.jpg 1,22,358,333,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009138.jpg 63,2,500,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009144.jpg 49,47,474,345,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009147.jpg 44,90,455,310,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009148.jpg 90,54,206,256,4 145,13,175,43,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009150.jpg 78,365,140,433,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009166.jpg 196,18,294,280,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009168.jpg 151,64,387,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009175.jpg 132,57,331,159,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009185.jpg 140,64,433,322,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009189.jpg 405,226,449,281,2 304,224,366,261,2 231,212,287,245,2 123,186,227,250,2 70,178,120,237,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009195.jpg 101,51,257,419,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009197.jpg 104,93,467,357,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009202.jpg 143,114,372,447,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009208.jpg 1,43,249,305,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009212.jpg 1,198,323,500,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009221.jpg 57,65,421,277,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009227.jpg 430,133,497,187,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009236.jpg 131,96,346,290,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009244.jpg 2,2,500,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009245.jpg 17,96,288,330,2 265,150,467,248,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009246.jpg 97,36,354,206,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009251.jpg 180,23,309,306,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009255.jpg 12,5,248,197,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009268.jpg 127,123,369,377,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009270.jpg 5,3,404,333,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009285.jpg 3,61,433,344,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009306.jpg 67,338,266,451,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009308.jpg 1,1,500,286,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009309.jpg 21,74,500,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009318.jpg 32,58,438,334,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009323.jpg 378,239,483,345,0 221,79,328,145,0 2,168,82,262,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009324.jpg 233,18,447,330,0 1,50,302,331,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009327.jpg 67,273,113,334,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009331.jpg 1,1,58,193,4 100,168,217,293,3 260,195,360,266,3 331,196,412,281,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009333.jpg 207,202,352,268,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009337.jpg 231,148,495,326,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009342.jpg 237,139,377,278,1 219,121,274,248,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009375.jpg
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009378.jpg 8,19,313,394,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009398.jpg 1,4,422,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009405.jpg 139,1,500,367,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009407.jpg 25,123,322,480,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009418.jpg 149,237,264,333,3 181,102,251,227,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009422.jpg 2,2,481,325,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009429.jpg 205,197,316,240,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009438.jpg 103,64,343,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009439.jpg 151,180,208,262,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009455.jpg 125,2,500,334,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009459.jpg 153,87,358,297,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009463.jpg 1,174,139,330,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009464.jpg 1,91,447,358,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009465.jpg 15,37,390,335,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009468.jpg 87,40,247,216,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009470.jpg 19,112,227,156,1 229,123,468,211,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009479.jpg 145,261,293,327,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009488.jpg 124,89,334,404,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009502.jpg 200,89,331,227,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009512.jpg 236,275,374,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009516.jpg 17,62,375,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009518.jpg 125,43,412,356,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009528.jpg 86,67,489,322,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009543.jpg 181,125,266,229,3 230,233,344,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009545.jpg 175,29,500,333,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009549.jpg 3,62,378,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009560.jpg 4,3,244,171,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009562.jpg 16,38,355,472,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009566.jpg 146,150,304,232,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009584.jpg 178,4,263,104,1 323,174,487,358,1 256,225,409,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009586.jpg 170,355,205,390,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009587.jpg 3,1,500,337,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009598.jpg 160,157,246,358,0 199,135,413,302,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009605.jpg 89,18,458,369,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009609.jpg 213,90,400,175,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009619.jpg 210,137,306,251,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009621.jpg 1,1,412,476,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009650.jpg 21,36,346,418,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009658.jpg 31,85,250,302,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009668.jpg 1,19,321,375,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009670.jpg 101,109,245,262,1 334,73,441,166,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009692.jpg 167,172,224,263,0 203,157,298,249,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009698.jpg 135,153,415,375,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009707.jpg 79,130,274,249,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009710.jpg 43,98,500,375,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009713.jpg 114,57,406,344,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009717.jpg 2,154,118,236,2 263,206,425,333,2 182,163,270,283,2 135,178,196,234,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009719.jpg 159,106,500,413,4 6,70,419,412,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009724.jpg 33,2,479,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009732.jpg 59,98,376,411,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009743.jpg 150,165,342,220,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009748.jpg 68,86,400,338,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009749.jpg 209,289,295,446,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009763.jpg 281,131,484,269,1 42,32,334,318,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009767.jpg 103,114,260,500,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009772.jpg 5,145,375,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009780.jpg 329,99,500,317,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009794.jpg 1,14,324,500,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009797.jpg 132,50,238,303,3 222,110,396,312,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009800.jpg 128,261,177,313,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009805.jpg 97,133,392,276,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009807.jpg 191,61,474,332,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009808.jpg 18,43,291,482,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009819.jpg 232,51,383,267,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009823.jpg 3,4,498,374,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009841.jpg 175,80,354,227,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009851.jpg 147,144,312,266,4 91,136,249,267,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009852.jpg 153,121,482,375,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009865.jpg 150,142,238,330,2 1,141,139,333,2 220,141,316,282,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009870.jpg 272,70,466,290,3 26,43,315,276,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009874.jpg 116,158,238,480,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009886.jpg 87,67,395,305,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009896.jpg 139,134,372,323,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009897.jpg 236,68,467,317,2 125,146,267,294,2
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009908.jpg 107,110,253,268,2 277,160,317,180,0 146,70,181,119,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009918.jpg 118,123,287,333,3
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009923.jpg 112,148,252,333,1
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009940.jpg 218,114,387,375,0 135,133,365,375,0
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009954.jpg 192,126,403,275,4
+E:\Desktop\animal\efficientnet/VOCdevkit/VOC2007/JEPGIMAGE/009961.jpg 69,4,392,345,3
